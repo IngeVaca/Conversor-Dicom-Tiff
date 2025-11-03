@@ -77,7 +77,10 @@ Estos scripts trasladan los datos de las subcarpetas al dataset unificado de man
 Es importante tener en cuenta que el proceso de conversión a TIFF puede ser bastante lento (varias horas) y requiere una cantidad considerable de memoria.
 
 Al final del proceso se obtiene un dataset en el que las imágenes TIFF estarán organizadas en las carpetas correspondientes.  
-Además, cada script generará un CSV con las imágenes que fueron finalmente convertidas, así como un CSV adicional que contiene un resumen de todos los datos.
+
+Además, el siguiente script generará  CSV adicional que contiene un resumen de todos los datos, así como un EDA de los datos.
+
+- **Ponderado_EDA.py**
 
 
 ## Licencia
